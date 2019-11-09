@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-	    我的个人网站
+	    My Site
         Built with Blocs
 -----------------------------------------------------------------------------------*/
  
@@ -43,8 +43,8 @@ a:hover{text-decoration: none; cursor:pointer;}
 
 /* Sizes */
 
-.bloc-sm{
-	padding:20px 50px;
+.bloc-lg{
+	padding:100px 50px;
 }
 
 /* = Full Screen Blocs 
@@ -75,6 +75,19 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 .bloc-fill-screen .fill-bloc-bottom-edge{
 	align-self: flex-end;
+}
+
+
+/* Background Styles */
+
+.bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat{
+	-webkit-background-size: auto!important;
+	-moz-background-size: auto!important;
+	-o-background-size: auto!important;
+	background-size: auto!important;
+}
+.bg-repeat{
+	background:repeat;
 }
 
 
@@ -151,11 +164,6 @@ button{
 }
 
 
-/* = Icons
--------------------------------------------------------------- */
-.icon-md{
-	font-size:30px!important;
-}
 
 
 
@@ -206,11 +214,280 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .container{
 	max-width:1140px;
 }
+.x{
+	background-color:#AAA2CF;
+}
+.xs{
+	margin-top:100px;
+	border-radius:10px 10px 10px 10px;
+}
+.zi{
+	margin:300px 300px 300px 300px;
+}
+.ziti{
+	background-color:transparent;
+}
+.sd{
+	margin:120px 120px 120px 120px;
+}
+.xz{
+	;
+}
+.xc{
+	margin-bottom:300px;
+}
+.we{
+	;
+}
+.j{
+	margin-bottom:200px;
+	padding-top:100px;
+	padding-bottom:100px;
+	padding-left:200px;
+}
+.img-style{
+	width:50px;
+}
+.img-jianj-style{
+	;
+}
+.img-fanhuishou-style{
+	width:50px;
+}
+.img-daohan-style{
+	width:125px;
+	height:39px;
+}
+.img-17-style{
+	height:39px;
+}
+.img-lianxiwo-style{
+	width:125px;
+	height:39px;
+}
+.i{
+	padding:100px 150px 100px 150px;
+}
+.img-9-style{
+	width:127px;
+	height:33px;
+}
+.l{
+	margin-top:100px;
+	margin-right:100px;
+	margin-bottom:150px;
+}
+.img-10-style{
+	height:33px;
+}
+.q{
+	margin-bottom:150px;
+	padding-bottom:100px;
+}
+.f33{
+	margin-bottom:0px;
+	background-color:#E8F6EA;
+}
+.w{
+	margin-top:30px;
+}
+.img-banqu-style{
+	width:150px;
+}
+.img-8-style{
+	width:150px;
+}
+.img-编组-5-style{
+	height:33px;
+}
+.img-编组-4-style{
+	height:33px;
+}
+.img-编组-6-style{
+	height:33px;
+}
+.img-baihehsu-style{
+	width:250px;
+}
+.k{
+	margin-left:100px;
+}
+.h{
+	margin-top:100px;
+}
+p{
+	background-color:#FFF5D6;
+}
+.cxd{
+	background-color:#FFF5D6;
+}
+.img-chujushu-style{
+	width:250px;
+	margin-bottom:100px;
+}
+.o{
+	margin-top:200px;
+}
+.img-27-style{
+	width:250px;
+}
+.s{
+	background-color:transparent;
+}
+.cdjsv{
+	background-color:transparent;
+}
+.cmks{
+	background-color:#F9FFF0;
+}
+.cndijs{
+	background-color:transparent;
+}
+.zii{
+	background-color:transparent;
+	text-align:left;
+	font-family:"helvetica";
+}
+.img-28-style{
+	width:50px;
+}
+.dw7{
+	padding-left:50px;
+	margin:100px 100px 100px 100px;
+}
+.vfa{
+	margin-top:100px;
+	margin-right:100px;
+	margin-left:100px;
+	padding-top:100px;
+}
+.img-29-style{
+	height:48px;
+	width:170px;
+}
+.miaoosdnv{
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-left:50px;
+	margin-top:130px;
+}
+.hvds{
+	padding-right:50px;
+	padding-left:50px;
+	margin-top:100px;
+}
+.img-32-style{
+	height:48px;
+}
+.zhaopian{
+	margin-top:100px;
+	margin-bottom:100px;
+}
+.img-33-style{
+	width:139px;
+	height:48px;
+}
+.img-26-style{
+	width:50px;
+}
+.img-28-daohan-style{
+	width:125px;
+	height:39px;
+}
+.img-zuoi-style{
+	width:125px;
+	height:39px;
+}
+.dj{
+	padding-right:150px;
+	padding-bottom:150px;
+	padding-left:150px;
+}
+.cduia{
+	background-color:#F2F9FF;
+}
+.img-50-style{
+	width:50px;
+}
+.img-52-style{
+	width:125px;
+	height:39px;
+}
+.img-51-style{
+	width:125px;
+	height:39px;
+}
+.dk{
+	margin-top:100px;
+}
+.kbfg{
+	background-color:transparent;
+}
+.img-59-style{
+	width:50px;
+}
+.img-61-style{
+	width:125px;
+	height:39px;
+}
+.img-60-style{
+	width:128px;
+	height:39px;
+}
+.img-68-style{
+	width:50px;
+}
+.img-70-style{
+	width:125px;
+	height:39px;
+}
+.img-69-style{
+	width:125px;
+	height:39px;
+}
+.img-shangchuanwang-style{
+	width:1440px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
 
 
+/* Link colour styles */
+
+.ltc-bleu-de-france{
+	color:#2B87F1!important;
+}
+.ltc-bleu-de-france:hover{
+	color:#226cc1!important;
+}
+
+/* Bloc image backgrounds */
+
+.bg-beijing1{
+	background-image:url("img/beijing1.png");
+}
+.bg-编组{
+	background-image:url("img/编组.png");
+}
+.bg-beijing3{
+	background-image:url("img/beijing3.png");
+}
+.bg-baihe{
+	background-image:url("img/baihe.png");
+}
+.bg-chuju{
+	background-image:url("img/chuju.png");
+}
+.bg-beij10{
+	background-image:url("img/beij10.png");
+}
+.bg-biejng12{
+	background-image:url("img/biejng12.png");
+}
+.bg-鳖精{
+	background-image:url("img/鳖精.png");
+}
 
 
 
@@ -275,13 +552,3 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	   height: 320px;
     }
 }
-@media (max-width: 767px){
-	.text-right{
-	}
-	.text-left{
-	}
-	.text-center{
-	}
-	
-}
-
